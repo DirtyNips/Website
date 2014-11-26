@@ -1,0 +1,24 @@
+<!DOCTYPE html><html><head>
+	<title>DirtyNips - Website</title>
+	<meta charset="UTF-8">
+	<meta name="generator" content="Silex v2.0"> <!-- leave this for stats -->
+	<script type="text/javascript" src="http://static.silex.me/2.3/jquery.js"></script>
+	<script type="text/javascript" src="http://static.silex.me/2.3/jquery-ui.js"></script>
+	<script type="text/javascript" src="http://static.silex.me/2.3/jquery.ui.touch-punch.min.js"></script>
+	<script type="text/javascript" src="http://static.silex.me/2.3/pageable.js"></script>
+	<script type="text/javascript" src="http://static.silex.me/2.3/front-end.js"></script>
+	<!-- Normalize -->
+	<link href="http://static.silex.me/2.3/normalize.css" rel="stylesheet">
+	<!-- Silex style -->
+	<link href="http://static.silex.me/2.3/front-end.css" rel="stylesheet">
+
+	<style type="text/css" class="silex-style"></style>
+  <script type="text/javascript" class="silex-script"></script>
+<style id="current-page-style">.page-home{display:inherit; }</style></head>
+<body style="left: 0px; top: 0px; cursor: auto; background-image: url('Background%201600x1200.jpg'); background-attachment: fixed; background-color: rgb(26, 46, 119); background-size: auto; background-position: 50% 50%;" data-silex-type="container" class="silex-runtime">
+	<a id="page-home" data-silex-type="page" class="page-element">Home</a>
+	
+
+
+<div class="background editable-style container-element prevent-draggable" data-silex-type="container" style="top: 5px; left: 50px; width: 1280px; height: 2160px; border: 5px solid rgb(26, 46, 119); background-image: url('Background%201600x1200.jpg'); background-attachment: fixed; background-color: rgb(26, 46, 119); background-size: cover; background-position: 50% 50%; background-repeat: repeat;">
+	<div data-silex-type="image" class="editable-style image-element page-home paged-element" style="height: 400px; width: 1000px; top: 5px; left: 140px; position: absolute;"><img src="Channel%20Art%20Template%20(Fireworks).png" class="silex-element-content" style="width: 100%; height: 100%;"></div><div data-silex-type="html" class="editable-style html-element page-home paged-element" style="height: 149px; width: 299px; top: 404px; left: 0px; position: absolute; box-sizing: content-box; background-color: rgb(255, 255, 255);"><div class="silex-element-content" style="width: 100%; height: 100%;"><meta name="viewport" content="width=device-width"><style type="text/css"></style><video controls="" autoplay="" name="media"><source src="https://dl-web.dropbox.com/get/Panic!%20At%20The%20Disco%20-%20I%20Write%20Sins%20Not%20Tragedies.m4a?_subject_uid=234981928&amp;w=AAAJLAn58t_LZivl9bqux4p1hOS-b8WFZ1X5O7nslIoZBQ" type="audio/mp4"></video></div></div></div></body></html>
